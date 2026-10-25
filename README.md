@@ -78,3 +78,5 @@ stock-dashboard/
 └── README.md           # Documentation
 ```
 
+
+# stock-market-dashboard
